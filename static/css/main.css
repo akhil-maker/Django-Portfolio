@@ -1,0 +1,23 @@
+h3{
+    color: red;
+}
+
+body{
+    background-color: lightgray !important;
+}
+
+.card-body{
+    background-color: white;
+}
+
+#profile-wrapper{
+    text-align: center;
+}
+
+#profile-pic{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
